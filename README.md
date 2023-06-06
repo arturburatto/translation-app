@@ -1,6 +1,6 @@
 # Translation App
 
-This a translation app I made following a tutorial. Understanding each part of the process was definetely one of the most challenging experiences I had so far when it comes to JS, specially the country/language selection and translation, but I'm pretty happy with the result :)
+This is a translation app I made following a tutorial. Understanding each part of the process was definetely one of the most challenging experiences I had so far when it comes to JS, specially the country/language selection and translation, but I'm pretty happy with the result :)
 
 
 # Screenshot
